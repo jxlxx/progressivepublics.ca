@@ -1,6 +1,6 @@
 @font-face {
   font-family: "IBMSelectricLightItalic";
-  /* src: url("../fonts/IBM_Selectric_Light_Italic.ttf") format("truetype"); */
+  src: url("../fonts/IBM_Selectric_Light_Italic.ttf") format("truetype");
   font-style: italic;
   font-display: swap;
 }
