@@ -1,0 +1,24 @@
+public/
+resources/
+
+.DS_Store
+.hugo*
+.env*
+
+*_20*/assets
+*_20*/i18n
+*_20*/public
+*_20*/past
+*_20*/static
+*_20*/themes
+*.sh
+
+home/assets
+home/i18n
+home/public
+home/past
+home/static
+home/themes
+# *.jpeg
+# *.jpg
+# *.svg

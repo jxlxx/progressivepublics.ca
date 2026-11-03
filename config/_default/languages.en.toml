@@ -1,0 +1,16 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Progressive Publics"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  description = "Progressive Publics"
+  copyright = "© 2026 Harbinger Media Network & Unrigged"
+  # logo = "img/logo.png"
+  # secondaryLogo = "img/secondary-logo.png"
+

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <!-- Progressive Publics favicon: simple circle using poster colors -->
+  <!-- Colors approximated from poster -->
+  <!-- Deep purple: #2D2348; Ochre: #D3893A; Cream: #F3E5D6 -->
+  <defs>
+    <style>
+      .bg { fill: #F3E5D6; }
+      .ring { fill: none; stroke: #2D2348; stroke-width: 12; stroke-linecap: round; }
+      .dot { fill: #D3893A; }
+    </style>
+  </defs>
+  <rect width="128" height="128" fill="none"/>
+  <circle class="bg" cx="64" cy="64" r="52"/>
+  <circle class="ring" cx="64" cy="64" r="52"/>
+  <circle class="dot" cx="64" cy="64" r="18"/>
+</svg>
+

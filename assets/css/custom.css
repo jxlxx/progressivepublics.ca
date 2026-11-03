@@ -1,0 +1,158 @@
+@font-face {
+  font-family: "IBMSelectricLightItalic";
+  /* src: url("../fonts/IBM_Selectric_Light_Italic.ttf") format("truetype"); */
+  font-style: italic;
+  font-display: swap;
+}
+
+
+/* Summer scheme */
+:root {
+  --white: 255, 255, 255;
+  --soft-white: 254, 243, 226;
+  --soft-white-warmer: 254, 243, 216;
+  --soft-white-brighter: 254, 249, 246;
+
+  --brown: 128, 67, 17;
+  --warm-orange: 203, 107, 28;
+  --classy-purple: 30, 26, 35;
+  --classy-purple-darker: 20, 20, 25;
+  --navy: 51, 65, 85;
+  --purple-grey: 30, 20, 30;
+  --purple-grey-dark: 20, 10, 20;
+  --dark-grey: 20, 20, 20;
+  --darker-grey: 5, 5, 5;
+  --pink: 234, 94, 133;
+  --yellow: 244, 234, 100;
+  --dark-yellow: 255, 215, 0;
+  --bright-green: 94, 235, 195;
+  --emerald-green: 52, 158, 128;
+  --azure: 240, 255, 255;
+  --red: 255, 0, 0;
+  --moody-pink: 207, 47, 107;
+  --orange: 228, 75, 0;
+
+
+  --color-base: var(--soft-white);
+  --color-neutral: var(--soft-white);
+  --color-neutral-300: var(--white);
+
+  --color-hover: rgb(var(--red));
+  /* --color-focus: rgb(var(--dark-yellow)); */
+  --color-text-shadow: rgb(var(--red));
+  /* --color-focus: rgb(var(--pink)); */
+  /* --color-focus-shadow: rgb(var(--yellow)); */
+  --color-focus-secondary: rgb(var(--moody-pink));
+
+  --color-focus-dark: rgb(var(--yellow));
+  --color-focus-dark-shadow: rgb(var(--red));
+  --color-focus-dark-secondary: rgb(var(--bright-green));
+
+  /* background */
+  --color-neutral-800: var(--purple-grey);
+
+  /* mobile popup menu */
+  --color-neutral-900: var(--purple-grey-dark);
+}
+
+/* Decrease the default font size */
+html {
+  font-size: 11pt;
+}
+
+html * {
+  font-family: "Fira Sans";
+}
+
+h1,
+h2 {
+  font-family: "IBMSelectricLightItalic", "Fira Sans", sans-serif;
+  font-weight: 200;
+  font-size: 3em;
+  text-transform: uppercase;
+  /* text-shadow: 1px 3px var(--color-focus-dark-shadow); */
+  color: var(--color-orange);
+}
+
+h2 {
+  font-size: 2em;
+}
+
+h3,
+h4,
+h5 {
+  font-family: "IBMSelectricLightItalic", "Fira Sans", sans-serif;
+  text-transform: uppercase;
+  font-weight: 400;
+
+}
+
+
+p {
+  font-weight: 300;
+}
+
+html:not(.dark) * p {
+  font-weight: 400;
+}
+
+html.dark * p {
+  color: var(--color-base)
+}
+
+p a {
+  font-weight: 400;
+}
+
+html:not(.dark) p a {
+  font-weight: 600;
+}
+
+
+a:hover {
+  text-decoration: underline;
+  text-decoration-style: wavy;
+  text-decoration-thickness: 0.085em;
+  /* color: var(--color-hover); */
+  font-weight: 300;
+}
+
+
+/* header PROGRESSIVE PUBLICS */
+a.shrink {
+  font-family: "IBMSelectricLightItalic", "Fira Sans", sans-serif;
+  font-size: 2em;
+  text-transform: uppercase;
+  font-weight: 300;
+}
+
+
+nav a span {
+  font-family: "IBMSelectricLightItalic", "Fira Sans", sans-serif;
+  font-family: "Fira Sans", sans-serif;
+  text-transform: uppercase;
+  font-weight: 400;
+}
+
+
+html:not(.dark) body.h-screen .invisible,
+html:not(.dark) body.h-screen label.fixed {
+  background-color: rgba(var(--color-base), 0.95);
+  border: var(--color-hover) 1px solid;
+}
+
+
+div.partners p strong a {
+  text-decoration: underline;
+  text-decoration-style: wavy;
+  text-decoration-thickness: 0.06em;
+  /* text-decoration-color: var(--color-hover); */
+  /* color: var(--color); */
+  font-size: 1.5em;
+  font-weight: 300;
+}
+
+div.partners p strong a:hover {
+  /* color: var(--color-hover); */
+  font-weight: 500;
+}
