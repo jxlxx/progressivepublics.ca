@@ -6,9 +6,19 @@ layout: "simple"
 <br>
 <br>
 
-### Vol. 4: Winnipeg / March 2026 "✨Upcoming✨
 
-The [fourth Progressive Publics Symposium](https://www.eventbrite.ca/e/progressive-publics-vol-4-winnipeg-tickets-1983465627084?aff=erelexpmlt) will take place in Winnipeg on March
+### Vol. 5: Hamilton / April  2027 ✨Upcoming✨
+
+The fifth Progressive Publics Symposium will take place in Hamilton on April 3rd, curated by Dr. Shama Rangwala (York University), Andre Goulet (Harbinger/Unrigged), Canadian University Press, CFMU 93.3FM, The Silhouette, the National Community Radio Association and others and featuring interviews and panels with academics, activists and journalists on topics related to the union movement and labour history, how building bridges and community can fight the crisis in Canadian journalism and more.
+
+<br>
+<br>
+
+## Past
+
+### Vol. 4: Winnipeg / March 2026
+
+The [fourth Progressive Publics Symposium](https://www.eventbrite.ca/e/progressive-publics-vol-4-winnipeg-tickets-1983465627084?aff=erelexpmlt) took place in Winnipeg on March
 28th and 29th, hosted by journalist and activist Emily Leedham, Dr. Kevin Walby
 (University of Winnipeg’s Centre for Access to Information and Justice),
 journalist Jeremy Appel, Dr. Roberta Lexier (Mount Royal University), Andre
@@ -16,11 +26,6 @@ Goulet (Harbinger/Unrigged) and others and featuring interviews and panels
 with academics and independent media on topics like residential school
 denialism, labour history, the past and future of the NDP, carceral justice
 and more.
-
-<br>
-<br>
-
-## Past
 
 ### Vol. 3: Calgary / June 2025
 
