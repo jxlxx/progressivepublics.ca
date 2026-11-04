@@ -16,11 +16,11 @@
   weight = 10
   pageRef = "about"
 
-[[main]]
-  name = "✨Billets✨"
-  weight = 20
-  pageRef = "tickets"
-  url = "https://www.eventbrite.ca/e/progressive-publics-vol-4-winnipeg-tickets-1983465627084?aff=erelexpmlt"
+# [[main]]
+#   name = "✨Billets✨"
+#   weight = 20
+#   pageRef = "tickets"
+#   url = "https://www.eventbrite.ca/e/progressive-publics-vol-4-winnipeg-tickets-1983465627084?aff=erelexpmlt"
 
 # [[main]]
 #   name = "Partenaires"
